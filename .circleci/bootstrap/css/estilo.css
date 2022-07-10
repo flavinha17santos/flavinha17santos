@@ -1,0 +1,4 @@
+.bg-success {
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(rgb(102, 102, 236)), var(--bs-bg-opacity)) !important;
+  }
